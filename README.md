@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/malltshik/heartshooter/blob/main/heartshooter.p8.png?raw=true" />
+  <img src="https://github.com/malltshik/heartshooter/blob/main/screen.png?raw=true" />
 </p>
 
 # About
